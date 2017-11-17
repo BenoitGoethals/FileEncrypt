@@ -1,0 +1,15 @@
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\bin\Debug\FileEncrypter.exe.config
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\bin\Debug\FileEncrypter.exe
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\bin\Debug\FileEncrypter.pdb
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\MainWindow.g.cs
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\App.g.cs
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter_MarkupCompile.cache
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter_MarkupCompile.lref
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\MainWindow.baml
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.g.resources
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.Properties.Resources.resources
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.csproj.GenerateResource.Cache
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.csproj.CoreCompileInputs.cache
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.exe
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.pdb
+C:\Users\benoi\Source\Repos\EncryptManager\FileEncrypter\FileEncrypter\obj\Debug\FileEncrypter.csprojResolveAssemblyReference.cache

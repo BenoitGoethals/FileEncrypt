@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncrypter", "FileEncrypter\FileEncrypter.csproj", "{A742D00F-6874-47AA-8445-D716DBF2A087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileEncrypterTests", "FileEncrypterTests\FileEncrypterTests.csproj", "{96B76DD2-8F6C-46FA-B2AF-ACBB144BEF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A742D00F-6874-47AA-8445-D716DBF2A087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A742D00F-6874-47AA-8445-D716DBF2A087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A742D00F-6874-47AA-8445-D716DBF2A087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A742D00F-6874-47AA-8445-D716DBF2A087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96B76DD2-8F6C-46FA-B2AF-ACBB144BEF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96B76DD2-8F6C-46FA-B2AF-ACBB144BEF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96B76DD2-8F6C-46FA-B2AF-ACBB144BEF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96B76DD2-8F6C-46FA-B2AF-ACBB144BEF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0249B08A-C37C-47E6-B227-E2A697C47168}
+	EndGlobalSection
+EndGlobal
